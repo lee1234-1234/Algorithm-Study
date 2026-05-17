@@ -4,5 +4,6 @@ def solution(nums):
     return len(set(nums))
 
 print(solution([1, 2, 3, 1, 2]))
+
 # nums = [1, 2, 3, 1, 2]
 # result = 3
